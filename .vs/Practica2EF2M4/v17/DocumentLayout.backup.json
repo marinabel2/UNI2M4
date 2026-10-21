@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|c:\\users\\abel marin\\videos\\practica2ef2m4\\migrations\\unidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|solutionrelative:migrations\\unidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Migrations\\20261019181811_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20261019181811_prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|c:\\users\\abel marin\\videos\\practica2ef2m4\\datos\\unidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|solutionrelative:datos\\unidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|c:\\users\\abel marin\\videos\\practica2ef2m4\\modelos\\areaconocimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|solutionrelative:modelos\\areaconocimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|c:\\users\\abel marin\\videos\\practica2ef2m4\\modelos\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|solutionrelative:modelos\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|c:\\users\\abel marin\\videos\\practica2ef2m4\\modelos\\estudianteasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|solutionrelative:modelos\\estudianteasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|c:\\users\\abel marin\\videos\\practica2ef2m4\\modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|solutionrelative:modelos\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|c:\\users\\abel marin\\videos\\practica2ef2m4\\modelos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|solutionrelative:modelos\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|c:\\users\\abel marin\\videos\\practica2ef2m4\\formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3F5A2B1-28E1-466C-B13E-29B71547BA46}|Practica2EF2M4.csproj|solutionrelative:formularios\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UNIDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Migrations\\UNIDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\UNIDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Migrations\\UNIDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\UNIDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:18:27.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20261019181811_prueba.cs",
+              "DocumentMoniker": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Migrations\\20261019181811_prueba.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261019181811_prueba.cs",
+              "ToolTip": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Migrations\\20261019181811_prueba.cs",
+              "RelativeToolTip": "Migrations\\20261019181811_prueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T18:18:12.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UNIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Datos\\UNIDbContext.cs",
+              "RelativeDocumentMoniker": "Datos\\UNIDbContext.cs",
+              "ToolTip": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Datos\\UNIDbContext.cs",
+              "RelativeToolTip": "Datos\\UNIDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwEwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:31:22.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\Asignatura.cs",
+              "RelativeDocumentMoniker": "Modelos\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\Asignatura.cs",
+              "RelativeToolTip": "Modelos\\Asignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:23:28.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstudianteAsignatura.cs",
+              "DocumentMoniker": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\EstudianteAsignatura.cs",
+              "RelativeDocumentMoniker": "Modelos\\EstudianteAsignatura.cs",
+              "ToolTip": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\EstudianteAsignatura.cs",
+              "RelativeToolTip": "Modelos\\EstudianteAsignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:20:17.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Modelos\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\Estudiante.cs",
+              "RelativeToolTip": "Modelos\\Estudiante.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:13:22.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AreaConocimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\AreaConocimiento.cs",
+              "RelativeDocumentMoniker": "Modelos\\AreaConocimiento.cs",
+              "ToolTip": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\AreaConocimiento.cs",
+              "RelativeToolTip": "Modelos\\AreaConocimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:06:48.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\Carrera.cs",
+              "RelativeDocumentMoniker": "Modelos\\Carrera.cs",
+              "ToolTip": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Modelos\\Carrera.cs",
+              "RelativeToolTip": "Modelos\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T17:09:42.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Formularios\\Form1.cs",
+              "RelativeDocumentMoniker": "Formularios\\Form1.cs",
+              "ToolTip": "C:\\Users\\Abel Marin\\Videos\\Practica2EF2M4\\Formularios\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:56:59.178Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
